@@ -1,4 +1,4 @@
-# <h1>Site de uma loja fectícia de livros feit apra treinar React.</h1>
+# <h1>Site de uma loja fectícia de livros feita pra treinar React.</h1>
 
 ## 🚀 Tecnologias
 <div>
@@ -12,9 +12,10 @@
  -->
 <!-- ## Tecnologias utilizadas no projeto
 * HTML
-* CSS --
-
-<h3 align="center">Tela para desktop</h3>
+* CSS -->
+<br>
+<br>
+<h3 align="center">Tela da Loja de livro fictícia</h3>
 <div align="center">
-  <img src="https://github.com/DeangellesES/meu_portifolio-HTML-CSS-JavaScript/blob/main/Layout%20desktop.png" width="1000">
+  <img src="https://github.com/DeangellesES/loja_de_livros_simples_ficticia-REACT/blob/main/telaUnica.png" width="800">
 </div>
