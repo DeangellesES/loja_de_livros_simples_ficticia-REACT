@@ -1,5 +1,8 @@
 # <h1>Site de uma loja fectícia de livros feita pra treinar React.</h1>
 
+# <h3><b>Styled-components utilizado no desenvolvimento</b></h3>
+<br>
+<br>
 ## 🚀 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
